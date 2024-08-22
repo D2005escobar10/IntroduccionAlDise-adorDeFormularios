@@ -1,0 +1,16 @@
+C:\Users\dresc\source\repos\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.exe
+C:\Users\dresc\source\repos\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.deps.json
+C:\Users\dresc\source\repos\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.runtimeconfig.json
+C:\Users\dresc\source\repos\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.dll
+C:\Users\dresc\source\repos\RegistroContactosApp\bin\Debug\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.Form1.resources
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.csproj.GenerateResource.cache
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.AssemblyInfoInputs.cache
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.AssemblyInfo.cs
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.csproj.CoreCompileInputs.cache
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.dll
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\refint\RegistroContactosApp.dll
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.pdb
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\RegistroContactosApp.genruntimeconfig.cache
+C:\Users\dresc\source\repos\RegistroContactosApp\obj\Debug\net8.0-windows\ref\RegistroContactosApp.dll
